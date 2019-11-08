@@ -9,5 +9,5 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  pp "Jaws\n + Close Encounters of the Third Kind\n + Raiders of the Lost Ark\n + E.T. the Extra-terrestrial\n + Schindler's List\nLincoln\n"
+  print "Jaws\n + Close Encounters of the Third Kind\n + Raiders of the Lost Ark\n + E.T. the Extra-terrestrial\n + Schindler's List\nLincoln\n"
 end
