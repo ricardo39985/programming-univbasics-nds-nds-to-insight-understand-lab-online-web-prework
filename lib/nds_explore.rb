@@ -11,4 +11,3 @@ end
 def print_first_directors_movie_titles
   pp "Jaws\nClose Encounters of the Third Kind\nRaiders of the Lost Ark\nE.T. the Extra-terrestrial\nSchindler's List\nLincoln\n"
 end
-
